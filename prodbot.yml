@@ -1,3 +1,5 @@
+credentials:
+  example_cred: SOME_ENVAR
 commands:
   example: echo "made it"
   another_example: echo "also made it"
