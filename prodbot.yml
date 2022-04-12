@@ -3,3 +3,4 @@ credentials:
 commands:
   example: echo "made it"
   another_example: echo "also made it"
+heroku_app: test-prodbot
